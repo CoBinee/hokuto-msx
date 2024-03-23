@@ -1,6 +1,6 @@
 # 北斗っぽい男
 
-[![Witches](http://img.youtube.com/vi/NzZgEHKtv1I/0.jpg)](https://www.youtube.com/watch?v=NzZgEHKtv1I)
+[![北斗っぽい男](http://img.youtube.com/vi/NzZgEHKtv1I/0.jpg)](https://www.youtube.com/watch?v=NzZgEHKtv1I)
 
 ## 説明
 世紀末の救世主になってください。<br>
